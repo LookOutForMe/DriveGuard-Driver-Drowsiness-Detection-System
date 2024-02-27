@@ -29,7 +29,7 @@ Drowsy driving is a major cause of road accidents worldwide. Our project aims to
 1. Clone this repository:
 
     ```
-    git clone https://github.com/yourusername/driver-drowsiness-detection.git
+    git clone https://github.com/LookOutForMe/DriveGuard-Driver-Drowsiness-Detection-System
     ```
 
 2. Install the required dependencies:
@@ -41,7 +41,7 @@ Drowsy driving is a major cause of road accidents worldwide. Our project aims to
 3. Run the main script:
 
     ```
-    python drowsiness_detection.py
+    python drive_guard.py
     ```
 
 ## Contributions
