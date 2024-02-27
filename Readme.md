@@ -44,6 +44,8 @@ Drowsy driving is a major cause of road accidents worldwide. Our project aims to
     python drive_guard.py
     ```
 
+**Note:  Download the shape_predictor_68_face_landmarks.dat file from [this link](https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2).**
+
 ## Contributions
 
 Contributions are welcome! Feel free to submit issues or pull requests to enhance the functionality of the drowsiness detection system.
